@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    2014-02 Matteo Gattanini 🐱
+    Manca lo spartito
+-->
+<song
+    progress="30%"
+    title="Popoli tutti acclamate|Shout to the Lord"
+    subtitle="A te si prostri tutta la terra, a te canti inni, al tuo nome"
+    author="Darlene Zschech" date="1700-02"
+    description="canto di lode ispirato ai salmi di acclamazione"
+    tags="ringraziamento,ingresso"
+    bible-ref="Salmi 66,4"
+    group=""
+    source="Eterna è la sua misericordia, 1993 Stella del Mattino Ed. Musicali, num.331 pag.47"
+    copyright="©1993 Kingway's Thankyou Music"
+    key="LaM" tempo="76bpm">
+
+<info>
+    <description>
+        É un canto di lode probabilmente ispirato ai tanti salmi di
+        acclamazione che celebrano la salvezza di Dio verso gli uomini.
+        É l'uomo, il popolo di Dio che parla e acclama al Signore perchè
+        solo Lui è la roccia dunque la nostra forza e la nostra salvezza.
+        Nelle prime due strofe le parole scorrono in intimità con Dio
+        fino all'esplosione del ritornello in cui è tutto il popolo a
+        cantare le lodi al Signore.
+        Le parole del testo sono scelte con cura e con uno stile meditativo.
+        Il testo è intenso, sicuro, adatto ad una grande assemblea in una
+        festa solenne.
+    </description>
+    <singing>
+        'Popoli tutti acclamate al Signore' ha una forma musicale uguale a
+        quella tipica della canzone, infatti è costituita da due strofe e
+        un doppio ritornello, nel senso che cambiano le parole ma la melodia
+        rimane immutata.
+        É una forma musicale abbastanza originale anche se non unica nel suo
+        genere.
+        La melodia si sviluppa in un intervallo abbastanza ampio e arricchito
+        di nuove musicalità. Strofa e ritornello hanno difatti uno sviluppo
+        equilibrato tale da distinguere le due parti. Sono molteplici le
+        varianti esecutive.
+        Una di queste può trovare utilizzo nell'affidare la prima e la
+        seconda strofa ad un solista per poi far entrare al ritornello, il
+        coro e l'assemblea.
+        Quindi si può ripetere tutto il canto tutti quanti insieme con
+        l'inserimento questa volta di un controcanto affidato ad un solista.
+        Il ritornello viene cantato ad una sola voce.
+        Questa è un pò la successione di voci del brano così come viene
+        cantata nell'incisione originale. Un'altra versione invece potrebbe
+        vedere il coro cantare da solo le strofe e l'assemblea inserirsi al
+        ritornello. Il ritornello viene cantato dal coro a più voci.
+        Poi quando si ripete il canto si aggiunge anche il controcanto con
+        un solista; questa è sicuramente la versione più complessa.
+        Il canto non presenta difficoltà particolari sia vocali che ritmiche.
+        Volendo essere abbastanza pignoli possiamo segnalare una difficoltà
+        nelle strofe con l'attacco in levare e note particolarmente basse che
+        richiedono una attenzione maggiore per un'emissione vocale corretta.
+    </singing>
+    <playing>
+        Nella incisione originale figura un pianoforte e una chitarra e le
+        percussioni in una versione cruda, semplice, ma suggestiva.
+        Per la nostra esecuzione noi possiamo tranquillamente sostituire
+        il pianoforte con l'organo ed aggiungere sempre una chitarra, che
+        rimane uno strumento importante per tenere il tempo.
+        Il brano comincia con un accenno da parte dell'organo (ma si può
+        utilizzare anche uno strumento a fiato per la melodia iniziale)
+        sulle note iniziali della strofa e con la chitarra che suona in
+        accompagnamento.
+        Raccomandiamo di diversificare l'accompagnamento della strofa
+        dal ritornello con queste ritmiche:
+            strofa:  1 2 3 4+e       ritornello: 1+2+e 3+4+e
+                     ♩ ♩ ♩ ♪♬                   ♫ ♪♬  ♫ ♪♬
+    </playing>
+</info>
+
+<text>
+<!-- Gli 'accapo' e le indentazioni contano!
+     Accordi: ChordPro format [Do#]
+     Markup delle misure: |{4/4}uno|due|tre
+     Direttive: [Uomini:]
+     Annotazioni a margine: {}              -->
+
+<!-- Strofa (non indentato) -->
+[La] Mio Dio,|[Mi] Signore,|[Fa#]nulla è pa[Mi]ri a te|[Re]e.
+Ora e per sem|[La/do#]pre [Re]voglio loda|[La/mi]re
+[Fa#]il tuo grande a|[Sol]mor [Re/fa#]per| [Mi4]me.[Mi][Re/mi]
+[La]Mia roccia|[Mi] tu sei,
+[Fa#]pace e con[Mi]forto mi da|[Re]i.
+ Con tutto il cuo|[La/do#]re [Re]e le [La/mi]mie for|ze
+[Fa#]sempre io ti a|[Sol]do[Re/fa#]re[Mi4]rò.[Mi]
+
+    <!-- Ritornello (indentato) -->
+    [La]Popoli tut[Fa#]ti acclama|[Re]te al Signo[Re/mi][Mi]re,
+    [La]gloria e potenza cantia|mo al Re,
+    mari e monti si pro|strino a Te,
+    al tuo| nome, o Si|gnore.
+
+    Canto di gioia per quel|lo che fai, per
+    sempre Signore con Te| resterò,
+    [2x:]non c’è promessa non c’è| fedeltà
+    che in| Te.
+    { Si ripete tutto una seconda volta,
+      poi nel finale si ripete l'ultima frase }
+</text>
+
+<score type="Lilypond">
+<![CDATA[
+
+]]>
+</score>
+
+<score type="ABC">
+<![CDATA[
+
+]]>
+</score>
+
+<score type="MusicXML">
+
+</score>
+
+</song>
